@@ -1,0 +1,43 @@
+2018-12-18 12:35:02.799522: Logging started.
+2018-12-18 12:35:02.812486: loading data for run 1_23, <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:35:02.833431: loading data for run 2_3, <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:35:02.845399: loading data for run 1_28, <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:35:02.897260: loading data for run 22_2, <Thread(Thread-9, started daemon 20360)>
+2018-12-18 12:35:02.952115: loading data for run 22_12, <Thread(Thread-10, started daemon 28360)>
+2018-12-18 12:35:04.112035: loading finished: <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:35:04.116025: switched data. new batches: 512
+2018-12-18 12:35:04.215758: loading finished: <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:35:04.216756: switched data. new batches: 512
+2018-12-18 12:35:04.262633: loading finished: <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:35:04.262633: switched data. new batches: 512
+2018-12-18 12:35:04.520955: loading finished: <Thread(Thread-9, started daemon 20360)>
+2018-12-18 12:35:04.520955: switched data. new batches: 512
+2018-12-18 12:35:04.854180: loading finished: <Thread(Thread-10, started daemon 28360)>
+2018-12-18 12:35:04.854180: switched data. new batches: 512
+2018-12-18 12:37:31.945403: loading data for run 1_2, <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:37:32.198727: loading data for run 12_16, <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:37:32.548311: loading data for run 11_30, <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:37:35.491536: loading finished: <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:37:35.495525: switched data. new batches: 512
+2018-12-18 12:37:35.551376: loading finished: <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:37:35.556362: switched data. new batches: 512
+2018-12-18 12:37:35.648117: loading finished: <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:37:35.651110: switched data. new batches: 512
+2018-12-18 12:37:56.311480: loading data for run 32_21, <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:37:56.322451: loading data for run 31_6, <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:37:56.412212: loading data for run 12_5, <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:37:57.266844: loading finished: <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:37:57.273826: switched data. new batches: 512
+2018-12-18 12:37:57.274823: loading finished: <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:37:57.279810: loading finished: <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:37:57.283798: switched data. new batches: 512
+2018-12-18 12:37:57.295767: switched data. new batches: 512
+2018-12-18 12:38:16.940515: loading data for run 1_21, <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:38:17.072277: loading data for run 32_22, <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:38:17.220682: loading data for run 32_12, <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:38:18.358685: loading finished: <Thread(Thread-6, started daemon 5484)>
+2018-12-18 12:38:18.362675: switched data. new batches: 512
+2018-12-18 12:38:18.876670: loading finished: <Thread(Thread-7, started daemon 4576)>
+2018-12-18 12:38:18.883651: switched data. new batches: 512
+2018-12-18 12:38:18.886642: loading finished: <Thread(Thread-8, started daemon 5548)>
+2018-12-18 12:38:18.889634: switched data. new batches: 512

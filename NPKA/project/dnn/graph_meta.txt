@@ -1,0 +1,55 @@
+#############################################################################################
+# Meta data of the Deep Neural Network for SVD
+# Werner Rammer, 2018-12-18
+# Rammer, W, Seidl, R: A scalable model of vegetation transitions using deep learning
+## https://svdmodel.github.io/SVD/#/configuring_dnn_metadata
+#############################################################################################
+
+# Climate data
+input.clim_input.enabled=true
+input.clim_input.dim=2
+input.clim_input.sizeX=10
+input.clim_input.sizeY=24
+input.clim_input.dtype=float
+input.clim_input.type=Climate
+
+# Current state
+input.state_input.enabled=true
+input.state_input.dim=1
+input.state_input.sizeX=1
+input.state_input.sizeY=0
+input.state_input.dtype=int16
+input.state_input.type=State
+
+# Residence time
+input.time_input.enabled=true
+input.time_input.dim=1
+input.time_input.sizeX=1
+input.time_input.sizeY=0
+input.time_input.dtype=float
+input.time_input.type=ResidenceTime
+
+# Site (time-invariant) variables
+input.site_input.enabled=true
+input.site_input.dim=1
+input.site_input.sizeX=2
+input.site_input.sizeY=0
+input.site_input.dtype=float
+input.site_input.type=Var
+input.site_input.transformations={(availableNitrogen-58.500)/41.536}, {(soilDepth-58.500)/41.536}
+
+# Distance to external seed sources
+input.distance_input.enabled=true
+input.distance_input.dim=1
+input.distance_input.sizeX=1
+input.distance_input.sizeY=0
+input.distance_input.dtype=float
+input.distance_input.type=DistanceOutside
+
+# State of spatial neighborhood
+input.neighbor_input.enabled=true
+input.neighbor_input.dim=1
+input.neighbor_input.sizeX=62
+input.neighbor_input.sizeY=0
+input.neighbor_input.dtype=float
+input.neighbor_input.type=Neighbors
