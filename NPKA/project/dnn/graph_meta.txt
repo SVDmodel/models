@@ -53,3 +53,10 @@ input.neighbor_input.sizeX=62
 input.neighbor_input.sizeY=0
 input.neighbor_input.dtype=float
 input.neighbor_input.type=Neighbors
+
+input.keras_learning_phase.enabled=true
+input.keras_learning_phase.dim=0
+input.keras_learning_phase.sizeX=0
+input.keras_learning_phase.sizeY=0
+input.keras_learning_phase.dtype=bool
+input.keras_learning_phase.type=Scalar
