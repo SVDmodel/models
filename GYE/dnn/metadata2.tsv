@@ -1,0 +1,1419 @@
+stateId	unique.str	composition	structure	fct	n
+1	PIAB  10 2	PIAB 	10	2	357931
+2	PIAB  10 1	PIAB 	10	1	49404
+3	PIAB  8 2	PIAB 	8	2	96668
+4	PIAB lade  8 2	PIAB lade 	8	2	2401
+5	PIAB fasy  10 2	PIAB fasy 	10	2	139987
+6	piab fasy  9 1	piab fasy 	9	1	62416
+7	FASY  9 1	FASY 	9	1	42432
+8	acps frex  8 0	acps frex 	8	0	14
+9	piab fasy  8 2	piab fasy 	8	2	338988
+10	PIAB  7 2	PIAB 	7	2	31824
+11	fasy acps frex  8 1	fasy acps frex 	8	1	35
+12	piab  9 2	piab 	9	2	8750
+13	PIAB fasy  9 2	PIAB fasy 	9	2	91946
+14	FASY  8 2	FASY 	8	2	3033918
+15	piab fasy  8 1	piab fasy 	8	1	110226
+16	fasy frex  8 1	fasy frex 	8	1	1209
+17	PIAB  7 1	PIAB 	7	1	25610
+18	piab fasy  4 2	piab fasy 	4	2	257
+19	fasy  9 1	fasy 	9	1	6987
+20	piab abal fasy  9 1	piab abal fasy 	9	1	772
+21	fasy acps  9 1	fasy acps 	9	1	580
+22	FASY piab  9 1	FASY piab 	9	1	10128
+23	PIAB  5 1	PIAB 	5	1	2133
+24	FASY  8 1	FASY 	8	1	65790
+25	PIAB  9 2	PIAB 	9	2	211111
+26	piab fasy  9 2	piab fasy 	9	2	701796
+27	piab fasy  10 2	piab fasy 	10	2	647247
+28	piab fasy  10 1	piab fasy 	10	1	15169
+29	piab fasy  9 0	piab fasy 	9	0	969
+30	PIAB  6 2	PIAB 	6	2	6455
+31	PIAB  8 1	PIAB 	8	1	45235
+32	FASY  9 0	FASY 	9	0	808
+33	FASY  5 1	FASY 	5	1	5495
+34	piab fasy  6 1	piab fasy 	6	1	38876
+35	piab fasy  7 2	piab fasy 	7	2	86246
+36	PIAB  10 0	PIAB 	10	0	623
+37	piab fasy  7 1	piab fasy 	7	1	81448
+38	PIAB  9 1	PIAB 	9	1	56921
+39	PIAB fasy  9 1	PIAB fasy 	9	1	15635
+40	piab acps  7 1	piab acps 	7	1	98
+41	pisy fasy  9 1	pisy fasy 	9	1	545
+42	FASY  7 1	FASY 	7	1	37318
+43	FASY  6 1	FASY 	6	1	11719
+44	PIAB fasy  8 1	PIAB fasy 	8	1	20071
+45	FASY piab  7 1	FASY piab 	7	1	19695
+46	fasy  10 1	fasy 	10	1	1141
+47	fasy frex  9 1	fasy frex 	9	1	600
+48	FASY  6 0	FASY 	6	0	1356
+49	FASY  6 2	FASY 	6	2	348217
+50	FASY  7 2	FASY 	7	2	1052765
+51	FASY frex  7 0	FASY frex 	7	0	58
+52	piab fasy frex  8 1	piab fasy frex 	8	1	598
+53	fasy frex  6 1	fasy frex 	6	1	313
+54	FASY piab  8 1	FASY piab 	8	1	23788
+55	piab  7 1	piab 	7	1	1974
+56	FREX  1 0	FREX 	1	0	1614
+57	piab pisy fasy  7 1	piab pisy fasy 	7	1	1919
+58	piab fasy  5 1	piab fasy 	5	1	16358
+59	fasy frex  7 1	fasy frex 	7	1	780
+60	fasy alin  7 1	fasy alin 	7	1	16
+61	piab pisy  7 1	piab pisy 	7	1	2245
+62	fasy acps  8 1	fasy acps 	8	1	932
+63	FASY acps  6 1	FASY acps 	6	1	98
+64	PIAB fasy  10 1	PIAB fasy 	10	1	6944
+65	FASY frex  6 0	FASY frex 	6	0	77
+66	fasy acps  7 1	fasy acps 	7	1	831
+67	FASY frex  6 1	FASY frex 	6	1	76
+68	fasy frex  6 0	fasy frex 	6	0	225
+69	fasy acps  5 0	fasy acps 	5	0	73
+70	FASY  5 0	FASY 	5	0	608
+71	fasy  8 1	fasy 	8	1	12122
+72	fasy  7 1	fasy 	7	1	5868
+73	PIAB fasy  8 2	PIAB fasy 	8	2	36887
+74	FASY  8 0	FASY 	8	0	2355
+75	piab  7 2	piab 	7	2	1466
+76	piab fasy  7 0	piab fasy 	7	0	1799
+77	FASY piab  5 2	FASY piab 	5	2	9544
+78	FASY piab  6 1	FASY piab 	6	1	13601
+79	piab fasy  6 2	piab fasy 	6	2	22127
+80	PIAB fasy  7 1	PIAB fasy 	7	1	11506
+81	FASY  7 0	FASY 	7	0	2330
+82	PIAB frex  4 0	PIAB frex 	4	0	98
+83	piab frex  5 0	piab frex 	5	0	223
+84	FASY acps  5 0	FASY acps 	5	0	63
+85	PIAB fasy  7 2	PIAB fasy 	7	2	8141
+86	FASY piab  8 2	FASY piab 	8	2	240410
+87	piab lade  8 1	piab lade 	8	1	11618
+88	abal fasy  7 1	abal fasy 	7	1	1861
+89	piab fasy  5 0	piab fasy 	5	0	382
+90	lade fasy  8 1	lade fasy 	8	1	7768
+91	piab lade fasy  8 1	piab lade fasy 	8	1	7793
+92	piab lade  7 1	piab lade 	7	1	5798
+93	LADE  5 0	LADE 	5	0	345
+94	piab lade fasy  8 2	piab lade fasy 	8	2	8381
+95	lade fasy  7 0	lade fasy 	7	0	932
+96	FASY  10 1	FASY 	10	1	5667
+97	FASY piab  7 2	FASY piab 	7	2	85158
+98	LADE  7 1	LADE 	7	1	1807
+99	lade fasy acps  6 0	lade fasy acps 	6	0	16
+100	FASY  10 0	FASY 	10	0	159
+101	piab lade fasy  10 0	piab lade fasy 	10	0	42
+102	piab acps  5 1	piab acps 	5	1	17
+103	LADE  6 0	LADE 	6	0	927
+104	piab lade  8 0	piab lade 	8	0	825
+105	piab lade  6 0	piab lade 	6	0	363
+106	PIAB lade  6 0	PIAB lade 	6	0	60
+107	PIAB  6 1	PIAB 	6	1	8142
+108	PIAB  5 2	PIAB 	5	2	1038
+109	FASY frex  8 0	FASY frex 	8	0	80
+110	PIAB lade  8 1	PIAB lade 	8	1	2862
+111	PIAB lade  6 1	PIAB lade 	6	1	459
+112	piab  8 1	piab 	8	1	2794
+113	PIAB frex  5 1	PIAB frex 	5	1	49
+114	piab fasy  4 1	piab fasy 	4	1	3148
+115	PIAB  7 0	PIAB 	7	0	2085
+116	PIAB lade  7 1	PIAB lade 	7	1	1745
+117	piab fasy  6 0	piab fasy 	6	0	717
+118	FASY lade  7 1	FASY lade 	7	1	381
+119	PIAB  1 0	PIAB 	1	0	708
+120	piab lade  7 0	piab lade 	7	0	985
+121	FASY acps  7 1	FASY acps 	7	1	168
+122	fasy acps  7 2	fasy acps 	7	2	181
+123	fasy acps  6 1	fasy acps 	6	1	310
+124	PIAB abal  7 1	PIAB abal 	7	1	112
+125	piab fasy acps  8 1	piab fasy acps 	8	1	270
+126	fasy  6 1	fasy 	6	1	914
+127	piab abal fasy  7 1	piab abal fasy 	7	1	889
+128	piab fasy  8 0	piab fasy 	8	0	1993
+129	piab fasy acps  7 2	piab fasy acps 	7	2	77
+130	piab fasy acps  8 2	piab fasy acps 	8	2	235
+131	PIAB fasy  8 0	PIAB fasy 	8	0	221
+132	FASY piab  6 0	FASY piab 	6	0	147
+133	pisy fasy  7 1	pisy fasy 	7	1	2044
+134	piab fasy acps  7 1	piab fasy acps 	7	1	403
+135	PISY  5 1	PISY 	5	1	397
+136	PISY  6 1	PISY 	6	1	929
+137	piab acps  7 2	piab acps 	7	2	23
+138	pisy  6 1	pisy 	6	1	267
+139	pisy fasy  6 1	pisy fasy 	6	1	584
+140	piab pisy  8 1	piab pisy 	8	1	2369
+141	PIAB  5 0	PIAB 	5	0	1119
+142	PIAB fasy  6 1	PIAB fasy 	6	1	3820
+143	fasy  8 2	fasy 	8	2	19122
+144	piab  7 0	piab 	7	0	252
+145	PIAB fasy  6 0	PIAB fasy 	6	0	99
+146	piab fasy acps  6 1	piab fasy acps 	6	1	91
+147	piab pisy fasy  8 1	piab pisy fasy 	8	1	2546
+148	piab lade  6 1	piab lade 	6	1	1187
+149	piab fasy frex  6 0	piab fasy frex 	6	0	77
+150	PISY lade  5 1	PISY lade 	5	1	29
+151	PISY  5 0	PISY 	5	0	47
+152	pisy  5 1	pisy 	5	1	43
+153	PIAB  8 0	PIAB 	8	0	2044
+154	piab  6 0	piab 	6	0	160
+155	piab pisy  6 1	piab pisy 	6	1	687
+156	LADE  5 1	LADE 	5	1	50
+157	fasy  5 1	fasy 	5	1	110
+158	PISY  7 1	PISY 	7	1	1168
+159	FASY piab  9 2	FASY piab 	9	2	467324
+160	piab lade fasy  9 2	piab lade fasy 	9	2	9410
+161	piab pisy fasy  6 1	piab pisy fasy 	6	1	222
+162	acps alin  6 0	acps alin 	6	0	13
+163	PISY piab  6 1	PISY piab 	6	1	111
+164	lade fasy  9 1	lade fasy 	9	1	5788
+165	lade fasy  8 2	lade fasy 	8	2	4119
+166	FASY lade  9 1	FASY lade 	9	1	830
+167	lade fasy acps  8 1	lade fasy acps 	8	1	105
+168	pisy fasy  8 1	pisy fasy 	8	1	2219
+169	piab pisy  7 2	piab pisy 	7	2	1336
+170	lade pisy  7 1	lade pisy 	7	1	1179
+171	PISY  6 2	PISY 	6	2	106
+172	FASY  9 2	FASY 	9	2	3967311
+173	lade fasy  7 2	lade fasy 	7	2	1635
+174	piab lade  7 2	piab lade 	7	2	2311
+175	pisy  7 1	pisy 	7	1	795
+176	pisy fasy  7 2	pisy fasy 	7	2	593
+177	piab lade fasy  7 1	piab lade fasy 	7	1	4308
+178	piab lade fasy  6 2	piab lade fasy 	6	2	149
+179	fasy  6 2	fasy 	6	2	244
+180	FASY lade  7 2	FASY lade 	7	2	158
+181	fasy  7 2	fasy 	7	2	3908
+182	piab abal fasy  8 1	piab abal fasy 	8	1	1175
+183	piab abal  7 1	piab abal 	7	1	363
+184	fasy  6 0	fasy 	6	0	278
+185	piab lade fasy  7 2	piab lade fasy 	7	2	2972
+186	lade fasy  6 2	lade fasy 	6	2	152
+187	lade fasy  7 1	lade fasy 	7	1	5450
+188	abal lade fasy  8 1	abal lade fasy 	8	1	280
+189	FASY lade  8 1	FASY lade 	8	1	746
+190	pisy  7 2	pisy 	7	2	266
+191	abal fasy  9 1	abal fasy 	9	1	957
+192	lade fasy  6 1	lade fasy 	6	1	929
+193	fasy alin  7 0	fasy alin 	7	0	26
+194	pisy fasy  5 1	pisy fasy 	5	1	46
+195	abal lade fasy  7 1	abal lade fasy 	7	1	722
+196	abal fasy  9 2	abal fasy 	9	2	6972
+197	fasy frex  7 0	fasy frex 	7	0	316
+198	lade frex  6 0	lade frex 	6	0	105
+199	fasy  9 2	fasy 	9	2	26051
+200	LADE piab  5 1	LADE piab 	5	1	41
+201	piab fasy  5 2	piab fasy 	5	2	4279
+202	lade fasy  5 1	lade fasy 	5	1	121
+203	FASY lade  6 1	FASY lade 	6	1	154
+204	LADE  6 1	LADE 	6	1	402
+205	FASY  4 1	FASY 	4	1	1161
+206	piab pisy  5 1	piab pisy 	5	1	92
+207	piab lade  8 2	piab lade 	8	2	5357
+208	lade  8 1	lade 	8	1	750
+209	lade  6 0	lade 	6	0	105
+210	piab abal  8 2	piab abal 	8	2	762
+211	piab abal  9 2	piab abal 	9	2	1268
+212	abal  7 1	abal 	7	1	79
+213	abal  9 1	abal 	9	1	40
+214	abal fasy  7 2	abal fasy 	7	2	1048
+215	piab  8 2	piab 	8	2	5561
+216	ABAL  7 1	ABAL 	7	1	164
+217	ABAL  6 1	ABAL 	6	1	29
+218	abal  8 1	abal 	8	1	103
+219	fasy  7 0	fasy 	7	0	598
+220	FASY abal  7 2	FASY abal 	7	2	524
+221	fasy frex  8 0	fasy frex 	8	0	319
+222	abal lade  7 0	abal lade 	7	0	20
+223	abal acps  7 1	abal acps 	7	1	19
+224	piab lade fasy  9 1	piab lade fasy 	9	1	5028
+225	LADE  9 0	LADE 	9	0	465
+226	LADE  10 0	LADE 	10	0	71
+227	abal fasy  10 1	abal fasy 	10	1	606
+228	FASY abal  7 0	FASY abal 	7	0	49
+229	abal fasy  8 1	abal fasy 	8	1	2345
+230	piab abal  7 2	piab abal 	7	2	239
+231	PIAB fasy  7 0	PIAB fasy 	7	0	201
+232	fasy  8 0	fasy 	8	0	631
+233	piab lade  9 2	piab lade 	9	2	9023
+234	abal fasy  8 2	abal fasy 	8	2	5412
+235	piab lade  9 1	piab lade 	9	1	9122
+236	abal fasy  10 2	abal fasy 	10	2	3404
+237	FASY abal  6 1	FASY abal 	6	1	106
+238	lade fasy  6 0	lade fasy 	6	0	420
+239	lade  7 0	lade 	7	0	197
+240	piab abal fasy  8 2	piab abal fasy 	8	2	3639
+241	PIAB acps  6 2	PIAB acps 	6	2	33
+242	lade  9 1	lade 	9	1	692
+243	LADE  8 1	LADE 	8	1	2026
+244	LADE fasy  8 1	LADE fasy 	8	1	115
+245	FASY piab  10 2	FASY piab 	10	2	327885
+246	abal fasy  6 1	abal fasy 	6	1	357
+247	PIAB lade  7 2	PIAB lade 	7	2	1263
+248	LADE piab  7 0	LADE piab 	7	0	302
+249	abal fasy acps  7 1	abal fasy acps 	7	1	28
+250	abal fasy acps  6 1	abal fasy acps 	6	1	18
+251	LADE  8 0	LADE 	8	0	769
+252	LADE  7 0	LADE 	7	0	1723
+253	LADE piab  7 1	LADE piab 	7	1	512
+254	abal lade  6 0	abal lade 	6	0	23
+255	piab frex  4 0	piab frex 	4	0	363
+256	PIAB  4 0	PIAB 	4	0	932
+257	fasy frex  3 0	fasy frex 	3	0	70
+258	lade  7 1	lade 	7	1	522
+259	lade fasy  10 1	lade fasy 	10	1	525
+260	piab abal fasy  6 1	piab abal fasy 	6	1	116
+261	FASY  4 0	FASY 	4	0	208
+262	LADE piab  6 0	LADE piab 	6	0	181
+263	piab lade fasy  6 1	piab lade fasy 	6	1	584
+264	fasy acps  7 0	fasy acps 	7	0	75
+265	piab  6 1	piab 	6	1	542
+266	mix 1 0	mix	1	0	2232
+267	FASY piab  4 0	FASY piab 	4	0	19
+268	fasy frex  4 0	fasy frex 	4	0	124
+269	ACPS  5 0	ACPS 	5	0	32
+270	piab lade fasy  7 0	piab lade fasy 	7	0	385
+271	lade fasy  8 0	lade fasy 	8	0	1439
+272	lade fasy  5 0	lade fasy 	5	0	130
+273	LADE piab  9 1	LADE piab 	9	1	822
+274	FASY piab  5 1	FASY piab 	5	1	7871
+275	lade fasy  9 2	lade fasy 	9	2	4100
+276	piab lade  5 2	piab lade 	5	2	148
+277	FASY lade  5 0	FASY lade 	5	0	29
+278	PIAB abal  7 2	PIAB abal 	7	2	60
+279	lade fasy acps  7 1	lade fasy acps 	7	1	72
+280	lade pisy  6 0	lade pisy 	6	0	74
+281	lade fasy  4 0	lade fasy 	4	0	49
+282	piab lade fasy  10 2	piab lade fasy 	10	2	4547
+283	lade fasy  10 2	lade fasy 	10	2	736
+284	FASY  10 2	FASY 	10	2	1034946
+285	lade fasy  9 0	lade fasy 	9	0	437
+286	abal fasy  6 2	abal fasy 	6	2	77
+287	FASY lade  8 0	FASY lade 	8	0	252
+288	piab pisy fasy  9 2	piab pisy fasy 	9	2	7890
+289	lade pisy  6 1	lade pisy 	6	1	676
+290	abal lade fasy  6 1	abal lade fasy 	6	1	348
+291	FASY  1 0	FASY 	1	0	144
+292	PISY  4 1	PISY 	4	1	145
+293	piab abal  8 1	piab abal 	8	1	374
+294	pisy fasy  5 0	pisy fasy 	5	0	33
+295	PIAB  6 0	PIAB 	6	0	1751
+296	piab pisy  6 2	piab pisy 	6	2	243
+297	lade pisy fasy  6 1	lade pisy fasy 	6	1	112
+298	abal lade fasy  9 1	abal lade fasy 	9	1	100
+299	piab lade fasy  10 1	piab lade fasy 	10	1	698
+300	piab frex  1 0	piab frex 	1	0	112
+301	abal fasy acps  9 1	abal fasy acps 	9	1	41
+302	FASY lade  10 2	FASY lade 	10	2	48
+303	piab pisy  4 1	piab pisy 	4	1	18
+304	piab lade fasy acps  7 1	piab lade fasy acps 	7	1	30
+305	LADE piab  8 1	LADE piab 	8	1	799
+306	fasy frex  1 0	fasy frex 	1	0	28
+307	FREX  2 0	FREX 	2	0	856
+308	piab frex  6 0	piab frex 	6	0	232
+309	pisy fasy  6 0	pisy fasy 	6	0	41
+310	lade pisy  8 1	lade pisy 	8	1	848
+311	piab abal fasy  6 0	piab abal fasy 	6	0	20
+312	abal fasy  6 0	abal fasy 	6	0	102
+313	acps  6 1	acps 	6	1	45
+314	lade acps  6 1	lade acps 	6	1	39
+315	piab acps  6 1	piab acps 	6	1	51
+316	LADE piab  8 0	LADE piab 	8	0	180
+317	PIAB lade  8 0	PIAB lade 	8	0	154
+318	piab fasy frex  6 1	piab fasy frex 	6	1	170
+319	BEPE  1 0	BEPE 	1	0	305
+320	ACPS  6 1	ACPS 	6	1	80
+321	piab lade  9 0	piab lade 	9	0	338
+322	FASY pisy  7 1	FASY pisy 	7	1	73
+323	abal pisy fasy  8 1	abal pisy fasy 	8	1	22
+324	PIAB  9 0	PIAB 	9	0	1532
+325	PIAB lade  10 0	PIAB lade 	10	0	18
+326	LADE  4 0	LADE 	4	0	185
+327	piab frex  7 0	piab frex 	7	0	193
+328	piab frex  7 1	piab frex 	7	1	398
+329	abal fasy  7 0	abal fasy 	7	0	139
+330	abal lade fasy  7 0	abal lade fasy 	7	0	47
+331	piab lade  10 1	piab lade 	10	1	2788
+332	PISY  6 0	PISY 	6	0	73
+333	piab  5 2	piab 	5	2	20
+334	PIAB fasy  6 2	PIAB fasy 	6	2	1180
+335	piab abal lade  8 1	piab abal lade 	8	1	160
+336	piab  6 2	piab 	6	2	185
+337	PISY piab  7 1	PISY piab 	7	1	235
+338	bepe  6 0	bepe 	6	0	26
+339	FREX  7 0	FREX 	7	0	104
+340	piab pisy  5 2	piab pisy 	5	2	32
+341	piab pisy fasy  9 1	piab pisy fasy 	9	1	855
+342	piab abal lade  9 1	piab abal lade 	9	1	145
+343	piab bepe  7 1	piab bepe 	7	1	78
+344	piab bepe  7 0	piab bepe 	7	0	152
+345	LADE fasy  7 0	LADE fasy 	7	0	80
+346	piab abal fasy  9 2	piab abal fasy 	9	2	7094
+347	piab abal lade fasy  9 1	piab abal lade fasy 	9	1	81
+348	piab abal  9 1	piab abal 	9	1	188
+349	PISY fasy  7 1	PISY fasy 	7	1	75
+350	piab bepe  8 0	piab bepe 	8	0	119
+351	FASY lade  10 1	FASY lade 	10	1	22
+352	piab abal fasy  6 2	piab abal fasy 	6	2	72
+353	lade  10 1	lade 	10	1	216
+354	piab alin  7 0	piab alin 	7	0	22
+355	piab alin  1 0	piab alin 	1	0	11
+356	frex  1 0	frex 	1	0	19
+357	PIAB frex  1 0	PIAB frex 	1	0	55
+358	lade pisy fasy  7 1	lade pisy fasy 	7	1	169
+359	FASY piab  6 2	FASY piab 	6	2	36555
+360	PIAB acps  6 1	PIAB acps 	6	1	28
+361	ALIN  1 0	ALIN 	1	0	55
+362	piab bepe  5 1	piab bepe 	5	1	48
+363	piab pisy fasy  7 2	piab pisy fasy 	7	2	588
+364	piab fasy acps  8 0	piab fasy acps 	8	0	23
+365	PIAB fasy  9 0	PIAB fasy 	9	0	203
+366	PISY fasy  6 1	PISY fasy 	6	1	30
+367	pisy fasy  7 0	pisy fasy 	7	0	82
+368	piab pisy fasy  7 0	piab pisy fasy 	7	0	44
+369	piab  8 0	piab 	8	0	293
+370	piab lade  5 1	piab lade 	5	1	354
+371	PISY  7 0	PISY 	7	0	35
+372	piab lade fasy  5 1	piab lade fasy 	5	1	55
+373	PIAB abal  9 2	PIAB abal 	9	2	538
+374	pisy  5 0	pisy 	5	0	22
+375	piab pisy  6 0	piab pisy 	6	0	63
+376	PIAB pisy  8 1	PIAB pisy 	8	1	180
+377	PIAB lade  5 2	PIAB lade 	5	2	91
+378	PISY lade  6 0	PISY lade 	6	0	15
+379	FREX  6 1	FREX 	6	1	214
+380	piab pisy  5 0	piab pisy 	5	0	32
+381	piab pisy  8 0	piab pisy 	8	0	100
+382	PIAB  11 2	PIAB 	11	2	362332
+383	fasy  5 0	fasy 	5	0	68
+384	lade  6 1	lade 	6	1	74
+385	piab lade fasy  6 0	piab lade fasy 	6	0	104
+386	piab lade pisy  7 1	piab lade pisy 	7	1	1313
+387	PISY  3 1	PISY 	3	1	28
+388	piab  9 1	piab 	9	1	1860
+389	PIAB  4 2	PIAB 	4	2	63
+390	piab lade  6 2	piab lade 	6	2	424
+391	PISY fasy  5 0	PISY fasy 	5	0	9
+392	piab lade pisy  8 2	piab lade pisy 	8	2	797
+393	LADE piab  5 0	LADE piab 	5	0	42
+394	piab lade  10 2	piab lade 	10	2	7044
+395	PIAB lade  10 1	PIAB lade 	10	1	434
+396	piab  10 2	piab 	10	2	6231
+397	piab lade pisy  6 2	piab lade pisy 	6	2	162
+398	lade pisy  6 2	lade pisy 	6	2	47
+399	piab lade pisy  5 1	piab lade pisy 	5	1	68
+400	piab lade pisy  6 1	piab lade pisy 	6	1	604
+401	piab lade pisy  8 1	piab lade pisy 	8	1	916
+402	piab bepe  6 0	piab bepe 	6	0	123
+403	lade bepe  8 0	lade bepe 	8	0	72
+404	PIAB lade  6 2	PIAB lade 	6	2	346
+405	PIAB fasy  5 1	PIAB fasy 	5	1	1238
+406	piab abal fasy  10 1	piab abal fasy 	10	1	290
+407	lade pisy  5 1	lade pisy 	5	1	188
+408	piab pisy  7 0	piab pisy 	7	0	100
+409	pisy  7 0	pisy 	7	0	47
+410	lade pisy fasy  7 0	lade pisy fasy 	7	0	20
+411	BEPE  4 0	BEPE 	4	0	66
+412	LADE bepe  7 0	LADE bepe 	7	0	66
+413	lade bepe  6 0	lade bepe 	6	0	101
+414	PIAB  4 1	PIAB 	4	1	267
+415	piab abal lade fasy  8 2	piab abal lade fasy 	8	2	95
+416	lade pisy  5 0	lade pisy 	5	0	41
+417	PIAB pisy  7 1	PIAB pisy 	7	1	130
+418	BEPE  2 0	BEPE 	2	0	165
+419	LADE bepe  6 0	LADE bepe 	6	0	19
+420	LADE  3 0	LADE 	3	0	133
+421	piab fasy frex  5 1	piab fasy frex 	5	1	71
+422	piab abal lade  9 2	piab abal lade 	9	2	177
+423	piab abal lade  7 1	piab abal lade 	7	1	216
+424	piab pisy  9 1	piab pisy 	9	1	744
+425	PIAB pisy  6 1	PIAB pisy 	6	1	43
+426	FREX  4 0	FREX 	4	0	544
+427	LADE piab  6 1	LADE piab 	6	1	163
+428	piab  10 1	piab 	10	1	704
+429	FASY piab  7 0	FASY piab 	7	0	286
+430	fasy acps  6 0	fasy acps 	6	0	92
+431	piab lade  4 0	piab lade 	4	0	106
+432	piab lade pisy  9 1	piab lade pisy 	9	1	261
+433	PIAB abal  10 2	PIAB abal 	10	2	626
+434	piab lade pisy  7 0	piab lade pisy 	7	0	28
+435	piab lade pisy  10 1	piab lade pisy 	10	1	25
+436	lade pisy fasy  8 1	lade pisy fasy 	8	1	183
+437	BEPE  5 0	BEPE 	5	0	76
+438	LADE fasy  8 0	LADE fasy 	8	0	110
+439	piab lade pisy  6 0	piab lade pisy 	6	0	28
+440	BEPE  6 0	BEPE 	6	0	84
+441	LADE fasy  6 0	LADE fasy 	6	0	58
+442	piab acps  6 0	piab acps 	6	0	58
+443	abal fasy  5 0	abal fasy 	5	0	29
+444	FASY lade  7 0	FASY lade 	7	0	115
+445	lade pisy  7 0	lade pisy 	7	0	195
+446	PIAB lade  5 1	PIAB lade 	5	1	105
+447	PIAB lade  9 1	PIAB lade 	9	1	2149
+448	abal fasy  4 0	abal fasy 	4	0	21
+449	abal lade  6 1	abal lade 	6	1	53
+450	piab abal lade fasy  6 1	piab abal lade fasy 	6	1	43
+451	FASY lade  6 0	FASY lade 	6	0	40
+452	piab abal  6 1	piab abal 	6	1	110
+453	piab abal lade  6 1	piab abal lade 	6	1	49
+454	LADE piab  6 2	LADE piab 	6	2	28
+455	piab acps  7 0	piab acps 	7	0	63
+456	PIAB acps  7 0	PIAB acps 	7	0	17
+457	abal lade  7 1	abal lade 	7	1	130
+458	piab lade pisy fasy  7 1	piab lade pisy fasy 	7	1	27
+459	BEPE piab  4 0	BEPE piab 	4	0	17
+460	lade fasy bepe  5 0	lade fasy bepe 	5	0	17
+461	lade bepe  5 0	lade bepe 	5	0	39
+462	fasy alin  5 0	fasy alin 	5	0	18
+463	LADE frex  3 0	LADE frex 	3	0	14
+464	piab abal lade fasy  7 1	piab abal lade fasy 	7	1	136
+465	lade pisy  9 1	lade pisy 	9	1	233
+466	lade bepe  4 0	lade bepe 	4	0	20
+467	FASY abal  8 1	FASY abal 	8	1	305
+468	PIAB fasy  4 0	PIAB fasy 	4	0	32
+469	piab abal lade fasy  8 1	piab abal lade fasy 	8	1	75
+470	piab lade fasy  8 0	piab lade fasy 	8	0	425
+471	PIAB lade  9 2	PIAB lade 	9	2	4410
+472	LADE fasy  9 0	LADE fasy 	9	0	30
+473	FASY  5 2	FASY 	5	2	36814
+474	piab pisy fasy  8 0	piab pisy fasy 	8	0	24
+475	piab abal fasy  7 2	piab abal fasy 	7	2	548
+476	piab lade frex  6 0	piab lade frex 	6	0	29
+477	FASY piab  10 0	FASY piab 	10	0	17
+478	fasy  9 0	fasy 	9	0	231
+479	piab abal pisy  7 1	piab abal pisy 	7	1	20
+480	lade frex  9 0	lade frex 	9	0	78
+481	PISY fasy  8 1	PISY fasy 	8	1	149
+482	FASY frex  3 0	FASY frex 	3	0	20
+483	LADE  7 2	LADE 	7	2	82
+484	LADE  9 1	LADE 	9	1	1254
+485	piab lade fasy  5 0	piab lade fasy 	5	0	16
+486	frex bepe  1 0	frex bepe 	1	0	105
+487	mix 3 0	mix	3	0	28
+488	fasy acps  8 0	fasy acps 	8	0	31
+489	piab abal fasy  7 0	piab abal fasy 	7	0	29
+490	piab lade  4 1	piab lade 	4	1	41
+491	FASY frex  1 0	FASY frex 	1	0	26
+492	PIAB pisy  9 2	PIAB pisy 	9	2	852
+493	lade fasy acps  9 1	lade fasy acps 	9	1	37
+494	piab pisy  8 2	piab pisy 	8	2	2792
+495	piab fasy frex  7 1	piab fasy frex 	7	1	286
+496	FREX  4 1	FREX 	4	1	260
+497	PIAB  2 0	PIAB 	2	0	341
+498	FASY acps  8 1	FASY acps 	8	1	146
+499	frex bepe  2 0	frex bepe 	2	0	77
+500	PIAB frex  8 1	PIAB frex 	8	1	129
+501	fasy frex  5 0	fasy frex 	5	0	131
+502	fasy acps  6 2	fasy acps 	6	2	51
+503	LADE piab  2 0	LADE piab 	2	0	15
+504	piab fasy frex  7 0	piab fasy frex 	7	0	82
+505	BEPE  8 0	BEPE 	8	0	42
+506	acps frex  5 1	acps frex 	5	1	11
+507	FASY frex  8 1	FASY frex 	8	1	162
+508	LADE  1 0	LADE 	1	0	272
+509	LADE  2 0	LADE 	2	0	127
+510	fasy  10 2	fasy 	10	2	8543
+511	FASY  3 0	FASY 	3	0	86
+512	piab bepe  5 0	piab bepe 	5	0	86
+513	piab fasy acps  5 0	piab fasy acps 	5	0	17
+514	piab bepe  1 0	piab bepe 	1	0	18
+515	lade fasy  3 0	lade fasy 	3	0	40
+516	fasy bepe  7 0	fasy bepe 	7	0	72
+517	FREX  5 0	FREX 	5	0	385
+518	LADE frex  7 0	LADE frex 	7	0	40
+519	lade  5 0	lade 	5	0	30
+520	lade bepe  7 0	lade bepe 	7	0	99
+521	FASY piab  10 1	FASY piab 	10	1	1580
+522	FASY lade  9 0	FASY lade 	9	0	43
+523	lade bepe  3 0	lade bepe 	3	0	32
+524	ALIN  3 0	ALIN 	3	0	29
+525	lade  8 0	lade 	8	0	182
+526	fasy acps  10 1	fasy acps 	10	1	295
+527	BEPE frex  2 0	BEPE frex 	2	0	27
+528	fasy alin  6 1	fasy alin 	6	1	18
+529	piab bepe  4 0	piab bepe 	4	0	68
+530	piab acps  8 1	piab acps 	8	1	70
+531	fasy frex alin  6 0	fasy frex alin 	6	0	30
+532	FASY acps  9 1	FASY acps 	9	1	64
+533	fasy acps  9 0	fasy acps 	9	0	20
+534	piab lade  5 0	piab lade 	5	0	234
+535	FASY acps  10 1	FASY acps 	10	1	92
+536	piab fasy acps  9 1	piab fasy acps 	9	1	143
+537	FASY acps  7 0	FASY acps 	7	0	51
+538	piab  11 1	piab 	11	1	114
+539	PIAB fasy  4 1	PIAB fasy 	4	1	283
+540	piab abal fasy  8 0	piab abal fasy 	8	0	44
+541	fasy frex alin  7 0	fasy frex alin 	7	0	30
+542	PIAB fasy  1 0	PIAB fasy 	1	0	36
+543	piab lade fasy  9 0	piab lade fasy 	9	0	239
+544	lade frex  7 0	lade frex 	7	0	106
+545	FASY frex  7 1	FASY frex 	7	1	158
+546	piab abal  10 2	piab abal 	10	2	974
+547	FASY  2 0	FASY 	2	0	50
+548	piab abal fasy  10 2	piab abal fasy 	10	2	4316
+549	FASY  3 1	FASY 	3	1	196
+550	piab fasy acps  7 0	piab fasy acps 	7	0	40
+551	piab frex  9 0	piab frex 	9	0	147
+552	lade frex  4 0	lade frex 	4	0	67
+553	piab lade frex  1 0	piab lade frex 	1	0	29
+554	lade fasy frex  9 0	lade fasy frex 	9	0	39
+555	lade frex  1 0	lade frex 	1	0	120
+556	piab  1 0	piab 	1	0	30
+557	FREX bepe  1 0	FREX bepe 	1	0	40
+558	piab  5 0	piab 	5	0	149
+559	frex alin  3 0	frex alin 	3	0	31
+560	lade frex  8 0	lade frex 	8	0	91
+561	FASY frex  5 0	FASY frex 	5	0	44
+562	FASY lade  9 2	FASY lade 	9	2	567
+563	BEPE  7 0	BEPE 	7	0	80
+564	FREX  8 0	FREX 	8	0	55
+565	fasy alin  6 0	fasy alin 	6	0	20
+566	FASY piab  8 0	FASY piab 	8	0	253
+567	fasy frex  5 1	fasy frex 	5	1	152
+568	FASY piab  5 0	FASY piab 	5	0	47
+569	BEPE frex  1 0	BEPE frex 	1	0	46
+570	piab fasy  1 0	piab fasy 	1	0	52
+571	piab fasy  11 1	piab fasy 	11	1	1530
+572	FASY acps  6 0	FASY acps 	6	0	97
+573	acps  9 1	acps 	9	1	17
+574	PIAB pisy  7 2	PIAB pisy 	7	2	59
+575	FREX lade  1 0	FREX lade 	1	0	79
+576	PIAB lade  7 0	PIAB lade 	7	0	101
+577	piab fasy frex  1 0	piab fasy frex 	1	0	10
+578	LADE fasy  7 1	LADE fasy 	7	1	81
+579	PIAB bepe  6 1	PIAB bepe 	6	1	37
+580	piab fasy  10 0	piab fasy 	10	0	254
+581	fasy frex  10 1	fasy frex 	10	1	71
+582	piab fasy frex  11 1	piab fasy frex 	11	1	126
+583	lade pisy  7 2	lade pisy 	7	2	106
+584	lade fasy acps  6 1	lade fasy acps 	6	1	35
+585	piab pisy fasy  8 2	piab pisy fasy 	8	2	4291
+586	lade fasy  1 0	lade fasy 	1	0	17
+587	piab fasy frex  5 0	piab fasy frex 	5	0	60
+588	ACPS  7 1	ACPS 	7	1	82
+589	lade fasy frex  7 0	lade fasy frex 	7	0	39
+590	FREX  6 0	FREX 	6	0	204
+591	lade fasy frex  7 1	lade fasy frex 	7	1	171
+592	lade fasy frex  8 1	lade fasy frex 	8	1	299
+593	ACPS  8 1	ACPS 	8	1	26
+594	FASY frex  9 1	FASY frex 	9	1	50
+595	PIAB frex  6 1	PIAB frex 	6	1	57
+596	ACPS alin  6 0	ACPS alin 	6	0	14
+597	PISY  7 2	PISY 	7	2	191
+598	lade fasy acps  8 2	lade fasy acps 	8	2	13
+599	FASY lade  8 2	FASY lade 	8	2	431
+600	lade  9 0	lade 	9	0	35
+601	fasy frex  2 0	fasy frex 	2	0	68
+602	piab lade  10 0	piab lade 	10	0	44
+603	FREX piab  1 0	FREX piab 	1	0	30
+604	fasy bepe  6 0	fasy bepe 	6	0	41
+605	lade frex  5 0	lade frex 	5	0	85
+606	piab frex  8 0	piab frex 	8	0	194
+607	frex bepe  4 0	frex bepe 	4	0	23
+608	LADE bepe  5 0	LADE bepe 	5	0	18
+609	PIAB pisy  8 0	PIAB pisy 	8	0	25
+610	PISY piab  6 2	PISY piab 	6	2	16
+611	piab pisy fasy  6 2	piab pisy fasy 	6	2	16
+612	piab lade pisy  7 2	piab lade pisy 	7	2	634
+613	PIAB bepe  7 0	PIAB bepe 	7	0	31
+614	pisy fasy  8 0	pisy fasy 	8	0	78
+615	abal lade  9 1	abal lade 	9	1	19
+616	LADE frex  4 0	LADE frex 	4	0	26
+617	lade fasy bepe  6 0	lade fasy bepe 	6	0	20
+618	piab abal  6 2	piab abal 	6	2	36
+619	piab fasy bepe  8 1	piab fasy bepe 	8	1	60
+620	frex bepe  3 0	frex bepe 	3	0	76
+621	piab lade  3 0	piab lade 	3	0	98
+622	piab bepe  2 0	piab bepe 	2	0	28
+623	PIAB bepe  7 1	PIAB bepe 	7	1	45
+624	piab alin  6 0	piab alin 	6	0	17
+625	FASY frex  4 0	FASY frex 	4	0	36
+626	fasy  4 0	fasy 	4	0	48
+627	PIAB  11 0	PIAB 	11	0	85
+628	FREX lade  2 0	FREX lade 	2	0	40
+629	BEPE  3 0	BEPE 	3	0	167
+630	piab fasy acps  6 0	piab fasy acps 	6	0	27
+631	piab frex  9 1	piab frex 	9	1	630
+632	piab lade  1 0	piab lade 	1	0	62
+633	frex alin  4 0	frex alin 	4	0	27
+634	lade frex  8 1	lade frex 	8	1	327
+635	FASY piab  1 0	FASY piab 	1	0	14
+636	piab bepe  6 1	piab bepe 	6	1	64
+637	FREX  7 1	FREX 	7	1	175
+638	PIAB frex  5 0	PIAB frex 	5	0	58
+639	PIAB frex  2 0	PIAB frex 	2	0	52
+640	fasy acps  8 2	fasy acps 	8	2	172
+641	fasy alin  8 0	fasy alin 	8	0	20
+642	lade frex  6 1	lade frex 	6	1	91
+643	FASY abal  7 1	FASY abal 	7	1	192
+644	piab frex  2 0	piab frex 	2	0	176
+645	ACPS  5 1	ACPS 	5	1	57
+646	FREX fasy  2 0	FREX fasy 	2	0	14
+647	pisy  8 1	pisy 	8	1	356
+648	FREX piab  2 0	FREX piab 	2	0	47
+649	PIAB frex  8 0	PIAB frex 	8	0	59
+650	piab bepe  8 1	piab bepe 	8	1	145
+651	piab alin  8 0	piab alin 	8	0	12
+652	piab  9 0	piab 	9	0	153
+653	PISY piab  7 2	PISY piab 	7	2	77
+654	piab lade pisy  9 2	piab lade pisy 	9	2	329
+655	frex bepe  7 0	frex bepe 	7	0	17
+656	piab lade pisy  10 2	piab lade pisy 	10	2	45
+657	abal fasy  5 1	abal fasy 	5	1	38
+658	ACPS  6 0	ACPS 	6	0	13
+659	lade bepe  6 1	lade bepe 	6	1	23
+660	PIAB lade  10 2	PIAB lade 	10	2	3757
+661	PIAB abal  6 1	PIAB abal 	6	1	25
+662	FREX piab  7 0	FREX piab 	7	0	45
+663	LADE fasy  9 1	LADE fasy 	9	1	80
+664	FREX bepe  2 0	FREX bepe 	2	0	28
+665	mix 4 0	mix	4	0	25
+666	LADE frex  5 0	LADE frex 	5	0	27
+667	ALIN  4 0	ALIN 	4	0	11
+668	lade frex  9 1	lade frex 	9	1	432
+669	PIAB bepe  9 0	PIAB bepe 	9	0	15
+670	PIAB  3 0	PIAB 	3	0	737
+671	fasy bepe  7 1	fasy bepe 	7	1	43
+672	lade fasy frex  9 1	lade fasy frex 	9	1	224
+673	PIAB fasy  5 0	PIAB fasy 	5	0	40
+674	LADE frex  9 0	LADE frex 	9	0	40
+675	PIAB  11 1	PIAB 	11	1	16067
+676	lade frex  2 0	lade frex 	2	0	92
+677	piab fasy frex  9 1	piab fasy frex 	9	1	502
+678	lade frex  7 1	lade frex 	7	1	183
+679	LADE  10 1	LADE 	10	1	287
+680	piab lade fasy acps  8 1	piab lade fasy acps 	8	1	31
+681	frex alin  2 0	frex alin 	2	0	14
+682	pisy  6 0	pisy 	6	0	39
+683	FASY pisy  8 1	FASY pisy 	8	1	159
+684	lade pisy  8 2	lade pisy 	8	2	204
+685	lade fasy bepe  6 1	lade fasy bepe 	6	1	31
+686	ALIN  2 0	ALIN 	2	0	26
+687	FASY lade  6 2	FASY lade 	6	2	33
+688	piab frex  6 1	piab frex 	6	1	339
+689	FREX  5 1	FREX 	5	1	157
+690	piab fasy frex  10 1	piab fasy frex 	10	1	134
+691	fasy bepe  8 0	fasy bepe 	8	0	19
+692	bepe  7 0	bepe 	7	0	16
+693	FREX fasy  4 0	FREX fasy 	4	0	29
+694	piab lade bepe  4 0	piab lade bepe 	4	0	16
+695	abal lade  8 0	abal lade 	8	0	18
+696	FASY piab  3 0	FASY piab 	3	0	20
+697	FREX fasy  6 0	FREX fasy 	6	0	13
+698	FREX lade  5 0	FREX lade 	5	0	16
+699	piab lade  2 0	piab lade 	2	0	95
+700	piab lade frex  2 0	piab lade frex 	2	0	37
+701	PIAB fasy  11 2	PIAB fasy 	11	2	94621
+702	PIAB frex  7 1	PIAB frex 	7	1	95
+703	piab frex  8 1	piab frex 	8	1	444
+704	PISY  5 2	PISY 	5	2	52
+705	pisy fasy  9 2	pisy fasy 	9	2	2164
+706	FASY pisy  5 1	FASY pisy 	5	1	10
+707	lade bepe  7 1	lade bepe 	7	1	73
+708	lade fasy frex  8 0	lade fasy frex 	8	0	94
+709	LADE frex  7 1	LADE frex 	7	1	42
+710	PIAB bepe  8 1	PIAB bepe 	8	1	48
+711	PIAB frex  10 1	PIAB frex 	10	1	150
+712	pisy fasy  8 2	pisy fasy 	8	2	1864
+713	lade acps  7 1	lade acps 	7	1	45
+714	frex bepe  5 0	frex bepe 	5	0	21
+715	piab abal  8 0	piab abal 	8	0	26
+716	piab pisy  10 2	piab pisy 	10	2	1051
+717	FREX  2 1	FREX 	2	1	30
+718	piab lade frex  8 1	piab lade frex 	8	1	85
+719	piab lade frex  7 0	piab lade frex 	7	0	30
+720	LADE bepe  7 1	LADE bepe 	7	1	24
+721	PIAB lade  9 0	PIAB lade 	9	0	59
+722	piab bepe  9 0	piab bepe 	9	0	78
+723	abal lade  8 1	abal lade 	8	1	66
+724	FASY acps  8 0	FASY acps 	8	0	15
+725	LADE frex  6 0	LADE frex 	6	0	28
+726	PIAB frex  7 0	PIAB frex 	7	0	61
+727	FASY frex  5 1	FASY frex 	5	1	16
+728	LADE frex  9 1	LADE frex 	9	1	44
+729	piab fasy  2 0	piab fasy 	2	0	60
+730	piab fasy frex  2 0	piab fasy frex 	2	0	15
+731	FASY bepe  8 1	FASY bepe 	8	1	21
+732	frex  7 0	frex 	7	0	27
+733	piab frex  3 0	piab frex 	3	0	326
+734	pisy fasy  6 2	pisy fasy 	6	2	65
+735	abal lade fasy  7 2	abal lade fasy 	7	2	121
+736	abal lade fasy  9 2	abal lade fasy 	9	2	93
+737	PIAB fasy  10 0	PIAB fasy 	10	0	105
+738	PIAB frex  9 0	PIAB frex 	9	0	55
+739	fasy  4 1	fasy 	4	1	38
+740	lade fasy bepe  7 1	lade fasy bepe 	7	1	14
+741	PIAB bepe  6 0	PIAB bepe 	6	0	15
+742	lade bepe  2 0	lade bepe 	2	0	14
+743	piab fasy frex  8 0	piab fasy frex 	8	0	129
+744	piab acps  8 2	piab acps 	8	2	48
+745	fasy bepe  9 1	fasy bepe 	9	1	37
+746	abal fasy  8 0	abal fasy 	8	0	125
+747	lade fasy frex  6 1	lade fasy frex 	6	1	21
+748	FASY bepe  7 1	FASY bepe 	7	1	17
+749	piab frex  10 1	piab frex 	10	1	493
+750	mix 2 0	mix	2	0	27
+751	frex alin  5 0	frex alin 	5	0	13
+752	PIAB fasy  11 1	PIAB fasy 	11	1	1375
+753	piab fasy frex  9 0	piab fasy frex 	9	0	94
+754	frex  7 1	frex 	7	1	86
+755	frex  5 0	frex 	5	0	24
+756	piab fasy frex  4 0	piab fasy frex 	4	0	39
+757	PIAB abal  8 2	PIAB abal 	8	2	220
+758	FREX piab  8 0	FREX piab 	8	0	20
+759	pisy  6 2	pisy 	6	2	21
+760	lade bepe  8 1	lade bepe 	8	1	178
+761	fasy acps frex  9 1	fasy acps frex 	9	1	32
+762	lade pisy fasy  9 1	lade pisy fasy 	9	1	33
+763	PISY fasy  9 1	PISY fasy 	9	1	27
+764	piab lade frex  8 0	piab lade frex 	8	0	34
+765	FREX  3 0	FREX 	3	0	770
+766	piab abal lade  8 2	piab abal lade 	8	2	92
+767	FASY abal  8 0	FASY abal 	8	0	43
+768	piab fasy  4 0	piab fasy 	4	0	208
+769	piab fasy  11 2	piab fasy 	11	2	160770
+770	piab lade fasy  11 1	piab lade fasy 	11	1	40
+771	lade fasy  2 0	lade fasy 	2	0	23
+772	frex  8 1	frex 	8	1	85
+773	LADE piab  9 0	LADE piab 	9	0	60
+774	piab pisy fasy  6 0	piab pisy fasy 	6	0	31
+775	acps  7 1	acps 	7	1	32
+776	PISY piab  8 1	PISY piab 	8	1	159
+777	frex bepe  8 1	frex bepe 	8	1	15
+778	PIAB acps  7 1	PIAB acps 	7	1	23
+779	ACPS  7 0	ACPS 	7	0	15
+780	LADE frex  8 1	LADE frex 	8	1	48
+781	FREX fasy  5 1	FREX fasy 	5	1	23
+782	piab lade bepe  7 1	piab lade bepe 	7	1	21
+783	piab lade frex  9 0	piab lade frex 	9	0	27
+784	lade frex  3 0	lade frex 	3	0	75
+785	piab lade frex  3 0	piab lade frex 	3	0	32
+786	LADE  6 2	LADE 	6	2	32
+787	LADE piab  7 2	LADE piab 	7	2	46
+788	abal fasy  9 0	abal fasy 	9	0	80
+789	piab  2 0	piab 	2	0	61
+790	FREX lade  3 0	FREX lade 	3	0	44
+791	FREX fasy  6 1	FREX fasy 	6	1	33
+792	FREX piab  3 0	FREX piab 	3	0	133
+793	piab abal lade fasy  10 1	piab abal lade fasy 	10	1	18
+794	FASY piab  4 1	FASY piab 	4	1	627
+795	ACPS  6 2	ACPS 	6	2	52
+796	FREX  3 1	FREX 	3	1	183
+797	piab acps  8 0	piab acps 	8	0	14
+798	BEPE frex  3 0	BEPE frex 	3	0	16
+799	piab bepe  10 0	piab bepe 	10	0	19
+800	piab frex  10 0	piab frex 	10	0	88
+801	PIAB fasy  5 2	PIAB fasy 	5	2	163
+802	bepe  8 0	bepe 	8	0	16
+803	FASY abal  6 2	FASY abal 	6	2	149
+804	FREX fasy  3 0	FREX fasy 	3	0	24
+805	abal fasy bepe  8 0	abal fasy bepe 	8	0	6
+806	piab bepe  9 1	piab bepe 	9	1	111
+807	lade fasy bepe  8 0	lade fasy bepe 	8	0	14
+808	BEPE piab  7 0	BEPE piab 	7	0	16
+809	mix 6 0	mix	6	0	21
+810	FASY bepe  10 1	FASY bepe 	10	1	15
+811	PIAB frex  10 0	PIAB frex 	10	0	31
+812	PIAB abal  8 1	PIAB abal 	8	1	85
+813	abal  8 2	abal 	8	2	34
+814	abal fasy acps  10 1	abal fasy acps 	10	1	38
+815	PISY piab  5 1	PISY piab 	5	1	22
+816	FREX piab  8 1	FREX piab 	8	1	56
+817	FASY acps  8 2	FASY acps 	8	2	73
+818	pisy  8 0	pisy 	8	0	42
+819	piab fasy bepe  9 1	piab fasy bepe 	9	1	48
+820	mix 5 0	mix	5	0	26
+821	lade bepe  9 1	lade bepe 	9	1	103
+822	FREX piab  7 1	FREX piab 	7	1	26
+823	FREX bepe  3 0	FREX bepe 	3	0	26
+824	FREX lade  5 1	FREX lade 	5	1	22
+825	PIAB frex  9 1	PIAB frex 	9	1	154
+826	FREX  8 1	FREX 	8	1	110
+827	frex bepe  8 0	frex bepe 	8	0	10
+828	fasy frex  9 0	fasy frex 	9	0	93
+829	piab fasy frex  8 2	piab fasy frex 	8	2	206
+830	lade  11 1	lade 	11	1	24
+831	PIAB pisy  8 2	PIAB pisy 	8	2	209
+832	PISY lade  6 1	PISY lade 	6	1	24
+833	piab lade bepe  8 0	piab lade bepe 	8	0	13
+834	acps frex  6 1	acps frex 	6	1	12
+835	piab lade frex  9 1	piab lade frex 	9	1	165
+836	FREX lade  6 1	FREX lade 	6	1	27
+837	piab lade fasy frex  9 1	piab lade fasy frex 	9	1	36
+838	piab fasy frex  10 0	piab fasy frex 	10	0	21
+839	PIAB frex  10 2	PIAB frex 	10	2	211
+840	FREX piab  4 0	FREX piab 	4	0	106
+841	abal lade fasy  10 1	abal lade fasy 	10	1	34
+842	piab frex bepe  9 1	piab frex bepe 	9	1	24
+843	piab lade bepe  8 1	piab lade bepe 	8	1	62
+844	lade fasy bepe  8 1	lade fasy bepe 	8	1	41
+845	piab bepe  3 0	piab bepe 	3	0	73
+846	fasy  11 1	fasy 	11	1	26
+847	PIAB frex  7 2	PIAB frex 	7	2	50
+848	abal  9 2	abal 	9	2	56
+849	PIAB pisy  9 1	PIAB pisy 	9	1	159
+850	frex  3 0	frex 	3	0	104
+851	FASY acps  7 2	FASY acps 	7	2	92
+852	piab lade frex  4 0	piab lade frex 	4	0	26
+853	frex alin  1 0	frex alin 	1	0	9
+854	FREX lade  4 0	FREX lade 	4	0	23
+855	piab frex  7 2	piab frex 	7	2	121
+856	fasy bepe  8 1	fasy bepe 	8	1	66
+857	piab lade frex  10 1	piab lade frex 	10	1	124
+858	LADE frex  8 0	LADE frex 	8	0	14
+859	PIAB frex  11 1	PIAB frex 	11	1	69
+860	piab abal lade fasy  10 2	piab abal lade fasy 	10	2	38
+861	PIAB frex  3 0	PIAB frex 	3	0	62
+862	LADE frex  1 0	LADE frex 	1	0	25
+863	piab frex  8 2	piab frex 	8	2	153
+864	piab lade pisy fasy  8 1	piab lade pisy fasy 	8	1	47
+865	fasy acps  9 2	fasy acps 	9	2	100
+866	piab pisy  9 0	piab pisy 	9	0	22
+867	lade bepe  9 0	lade bepe 	9	0	15
+868	piab lade bepe  9 1	piab lade bepe 	9	1	58
+869	piab pisy  9 2	piab pisy 	9	2	2880
+870	frex bepe  9 1	frex bepe 	9	1	14
+871	FASY abal  8 2	FASY abal 	8	2	1693
+872	piab abal fasy  9 0	piab abal fasy 	9	0	20
+873	piab frex  11 0	piab frex 	11	0	13
+874	piab fasy acps  10 1	piab fasy acps 	10	1	17
+875	FREX lade  4 1	FREX lade 	4	1	13
+876	lade frex bepe  1 0	lade frex bepe 	1	0	20
+877	piab fasy frex  9 2	piab fasy frex 	9	2	328
+878	ABAL fasy  7 1	ABAL fasy 	7	1	37
+879	lade frex  10 1	lade frex 	10	1	112
+880	PISY  8 1	PISY 	8	1	419
+881	piab abal  10 1	piab abal 	10	1	34
+882	FASY frex  10 1	FASY frex 	10	1	11
+883	piab  10 0	piab 	10	0	48
+884	frex  2 0	frex 	2	0	44
+885	FASY piab  9 0	FASY piab 	9	0	96
+886	frex  9 1	frex 	9	1	38
+887	lade fasy frex  3 0	lade fasy frex 	3	0	13
+888	pisy fasy  10 1	pisy fasy 	10	1	47
+889	LADE frex  10 1	LADE frex 	10	1	52
+890	piab frex  11 1	piab frex 	11	1	119
+891	piab pisy  10 1	piab pisy 	10	1	57
+892	piab pisy fasy  10 1	piab pisy fasy 	10	1	85
+893	piab fasy frex  3 0	piab fasy frex 	3	0	31
+894	PIAB lade  1 0	PIAB lade 	1	0	30
+895	mix 7 0	mix	7	0	9
+896	frex  6 0	frex 	6	0	17
+897	piab fasy  12 1	piab fasy 	12	1	279
+898	LADE piab  1 0	LADE piab 	1	0	18
+899	FREX  9 1	FREX 	9	1	66
+900	LADE piab  10 1	LADE piab 	10	1	330
+901	fasy frex  8 2	fasy frex 	8	2	188
+902	piab  3 0	piab 	3	0	122
+903	BEPE piab  3 0	BEPE piab 	3	0	26
+904	FREX piab  5 0	FREX piab 	5	0	49
+905	piab fasy acps  9 2	piab fasy acps 	9	2	87
+906	abal lade fasy  10 2	abal lade fasy 	10	2	37
+907	piab lade  11 1	piab lade 	11	1	224
+908	PIAB bepe  9 1	PIAB bepe 	9	1	50
+909	piab bepe  10 1	piab bepe 	10	1	98
+910	piab fasy  3 0	piab fasy 	3	0	72
+911	piab lade frex  5 0	piab lade frex 	5	0	22
+912	piab acps  9 1	piab acps 	9	1	29
+913	bepe  3 0	bepe 	3	0	20
+914	PIAB frex  8 2	PIAB frex 	8	2	87
+915	ABAL fasy  8 1	ABAL fasy 	8	1	23
+916	piab  11 2	piab 	11	2	1366
+917	piab fasy frex  7 2	piab fasy frex 	7	2	71
+918	frex  4 0	frex 	4	0	108
+919	piab  4 0	piab 	4	0	195
+920	LADE piab  8 2	LADE piab 	8	2	139
+921	FREX piab  5 1	FREX piab 	5	1	38
+922	FREX piab  9 1	FREX piab 	9	1	82
+923	FREX piab  4 1	FREX piab 	4	1	44
+924	lade fasy bepe  9 1	lade fasy bepe 	9	1	24
+925	piab lade fasy  2 0	piab lade fasy 	2	0	11
+926	piab frex bepe  10 1	piab frex bepe 	10	1	20
+927	piab acps  9 2	piab acps 	9	2	40
+928	FREX lade  7 1	FREX lade 	7	1	13
+929	piab frex  5 1	piab frex 	5	1	215
+930	abal lade fasy  8 2	abal lade fasy 	8	2	301
+931	piab lade frex  11 1	piab lade frex 	11	1	9
+932	piab frex bepe  4 0	piab frex bepe 	4	0	10
+933	SACA  1 0	SACA 	1	0	20
+934	piab frex  4 1	piab frex 	4	1	76
+935	frex  4 1	frex 	4	1	33
+936	piab frex  3 1	piab frex 	3	1	16
+937	FASY abal  9 2	FASY abal 	9	2	2939
+938	piab abal  11 2	piab abal 	11	2	544
+939	PIAB lade  2 0	PIAB lade 	2	0	12
+940	piab lade frex  7 1	piab lade frex 	7	1	41
+941	lade frex  5 1	lade frex 	5	1	23
+942	piab  4 1	piab 	4	1	42
+943	FASY  11 1	FASY 	11	1	250
+944	piab fasy frex  4 1	piab fasy frex 	4	1	27
+945	piab frex  9 2	piab frex 	9	2	177
+946	ABAL  8 1	ABAL 	8	1	50
+947	FASY piab  11 2	FASY piab 	11	2	84701
+948	PISY lade  7 1	PISY lade 	7	1	24
+949	piab lade frex  5 1	piab lade frex 	5	1	21
+950	FASY pisy  6 1	FASY pisy 	6	1	14
+951	piab frex  10 2	piab frex 	10	2	305
+952	LADE bepe  8 1	LADE bepe 	8	1	16
+953	fasy  3 0	fasy 	3	0	20
+954	fasy frex  10 2	fasy frex 	10	2	40
+955	LADE piab  4 0	LADE piab 	4	0	15
+956	piab  5 1	piab 	5	1	142
+957	piab bepe  4 1	piab bepe 	4	1	21
+958	FASY abal  9 1	FASY abal 	9	1	102
+959	fasy frex  4 1	fasy frex 	4	1	67
+960	piab fasy frex  11 2	piab fasy frex 	11	2	34
+961	PIAB lade  3 0	PIAB lade 	3	0	11
+962	PIAB lade  11 1	PIAB lade 	11	1	44
+963	piab lade frex  6 1	piab lade frex 	6	1	20
+964	PIAB lade  5 0	PIAB lade 	5	0	25
+965	PIAB frex  9 2	PIAB frex 	9	2	130
+966	fasy  11 2	fasy 	11	2	519
+967	piab lade fasy  4 0	piab lade fasy 	4	0	12
+968	lade fasy frex  9 2	lade fasy frex 	9	2	97
+969	piab frex  11 2	piab frex 	11	2	167
+970	piab frex alin  6 1	piab frex alin 	6	1	12
+971	frex  5 1	frex 	5	1	49
+972	fasy frex  9 2	fasy frex 	9	2	237
+973	piab fasy frex  10 2	piab fasy frex 	10	2	156
+974	piab lade frex  9 2	piab lade frex 	9	2	64
+975	PIAB bepe  10 1	PIAB bepe 	10	1	25
+976	ACPS  7 2	ACPS 	7	2	17
+977	pisy  9 1	pisy 	9	1	96
+978	lade pisy fasy  8 2	lade pisy fasy 	8	2	51
+979	piab lade bepe  10 1	piab lade bepe 	10	1	29
+980	PIAB lade  11 2	PIAB lade 	11	2	1072
+981	frex  6 1	frex 	6	1	28
+982	piab  12 2	piab 	12	2	293
+983	LADE piab  9 2	LADE piab 	9	2	151
+984	pisy  8 2	pisy 	8	2	185
+985	piab frex  6 2	piab frex 	6	2	111
+986	PISY fasy  7 2	PISY fasy 	7	2	20
+987	PIAB fasy  3 0	PIAB fasy 	3	0	19
+988	piab lade fasy  11 2	piab lade fasy 	11	2	328
+989	abal fasy  11 1	abal fasy 	11	1	15
+990	PIAB lade  4 0	PIAB lade 	4	0	14
+991	piab frex  5 2	piab frex 	5	2	34
+992	PISY  4 2	PISY 	4	2	21
+993	PIAB frex  11 2	PIAB frex 	11	2	134
+994	piab lade frex  11 2	piab lade frex 	11	2	22
+995	piab fasy frex  6 2	piab fasy frex 	6	2	42
+996	piab lade fasy frex  9 2	piab lade fasy frex 	9	2	17
+997	FASY frex  8 2	FASY frex 	8	2	41
+998	pisy fasy  10 2	pisy fasy 	10	2	198
+999	piab lade  11 2	piab lade 	11	2	1559
+1000	fasy  5 2	fasy 	5	2	65
+1001	FASY pisy  9 1	FASY pisy 	9	1	17
+1002	lade fasy frex  8 2	lade fasy frex 	8	2	65
+1003	piab fasy bepe  10 1	piab fasy bepe 	10	1	19
+1004	PIAB acps  8 1	PIAB acps 	8	1	20
+1005	piab bepe  9 2	piab bepe 	9	2	16
+1006	FREX  10 1	FREX 	10	1	15
+1007	lade frex  9 2	lade frex 	9	2	55
+1008	PIAB bepe  10 2	PIAB bepe 	10	2	21
+1009	lade fasy frex  10 2	lade fasy frex 	10	2	34
+1010	PIAB frex  6 2	PIAB frex 	6	2	24
+1011	piab pisy fasy  10 2	piab pisy fasy 	10	2	1684
+1012	lade frex  7 2	lade frex 	7	2	12
+1013	piab lade frex  8 2	piab lade frex 	8	2	19
+1014	acps  8 1	acps 	8	1	16
+1015	FASY  11 2	FASY 	11	2	110339
+1016	fasy  4 2	fasy 	4	2	11
+1017	FASY pisy  8 2	FASY pisy 	8	2	478
+1018	FASY piab  11 1	FASY piab 	11	1	189
+1019	PISY piab  8 2	PISY piab 	8	2	47
+1020	piab abal fasy  11 2	piab abal fasy 	11	2	1619
+1021	LADE  8 2	LADE 	8	2	178
+1022	lade  8 2	lade 	8	2	121
+1023	piab lade frex  10 2	piab lade frex 	10	2	107
+1024	piab fasy  12 2	piab fasy 	12	2	48012
+1025	fasy acps  10 2	fasy acps 	10	2	71
+1026	PISY piab  9 2	PISY piab 	9	2	14
+1027	FREX piab  10 1	FREX piab 	10	1	47
+1028	piab bepe  11 1	piab bepe 	11	1	17
+1029	PIAB  12 2	PIAB 	12	2	97162
+1030	FREX piab  6 0	FREX piab 	6	0	40
+1031	PISY  8 2	PISY 	8	2	144
+1032	LADE  10 2	LADE 	10	2	59
+1033	lade frex  8 2	lade frex 	8	2	41
+1034	PIAB abal  9 1	PIAB abal 	9	1	55
+1035	PISY piab  9 1	PISY piab 	9	1	26
+1036	FASY pisy  9 2	FASY pisy 	9	2	274
+1037	lade  9 2	lade 	9	2	181
+1038	piab acps  10 2	piab acps 	10	2	26
+1039	LADE piab  10 2	LADE piab 	10	2	152
+1040	lade frex  10 2	lade frex 	10	2	33
+1041	FASY acps  10 2	FASY acps 	10	2	20
+1042	PIAB frex  6 0	PIAB frex 	6	0	40
+1043	FREX fasy  4 1	FREX fasy 	4	1	22
+1044	piab abal lade fasy  9 2	piab abal lade fasy 	9	2	46
+1045	piab lade  12 2	piab lade 	12	2	81
+1046	PISY  9 1	PISY 	9	1	40
+1047	pisy  9 2	pisy 	9	2	74
+1048	piab abal lade  10 2	piab abal lade 	10	2	36
+1049	fasy frex  5 2	fasy frex 	5	2	73
+1050	FASY frex  9 2	FASY frex 	9	2	37
+1051	lade  10 2	lade 	10	2	113
+1052	FREX piab  6 1	FREX piab 	6	1	31
+1053	LADE piab  11 1	LADE piab 	11	1	11
+1054	FASY abal  10 2	FASY abal 	10	2	1836
+1055	piab lade fasy frex  10 2	piab lade fasy frex 	10	2	35
+1056	FASY  11 0	FASY 	11	0	30
+1057	lade  11 2	lade 	11	2	14
+1058	abal frex  9 1	abal frex 	9	1	15
+1059	fasy frex  7 2	fasy frex 	7	2	43
+1060	FREX  4 2	FREX 	4	2	10
+1061	frex  9 2	frex 	9	2	10
+1062	PIAB fasy  12 2	PIAB fasy 	12	2	27115
+1063	LADE  9 2	LADE 	9	2	135
+1064	PIAB acps  10 2	PIAB acps 	10	2	9
+1065	fasy frex  4 2	fasy frex 	4	2	33
+1066	PIAB  12 1	PIAB 	12	1	2127
+1067	ABAL fasy  8 2	ABAL fasy 	8	2	27
+1068	PIAB lade  12 2	PIAB lade 	12	2	60
+1069	PIAB abal  11 2	PIAB abal 	11	2	232
+1070	FASY  12 2	FASY 	12	2	8569
+1071	PISY  9 2	PISY 	9	2	33
+1072	abal fasy  11 2	abal fasy 	11	2	357
+1073	lade fasy  11 2	lade fasy 	11	2	32
+1074	lade pisy fasy  9 2	lade pisy fasy 	9	2	27
+1075	FASY frex  5 2	FASY frex 	5	2	21
+1076	lade pisy  9 2	lade pisy 	9	2	133
+1077	PISY fasy  8 2	PISY fasy 	8	2	23
+1078	abal  10 2	abal 	10	2	19
+1079	lade  7 2	lade 	7	2	32
+1080	FASY  4 2	FASY 	4	2	1543
+1081	piab fasy acps  10 2	piab fasy acps 	10	2	51
+1082	piab lade fasy  12 2	piab lade fasy 	12	2	22
+1083	PIAB pisy  10 2	PIAB pisy 	10	2	464
+1084	FASY frex  6 2	FASY frex 	6	2	19
+1085	LADE piab  11 2	LADE piab 	11	2	16
+1086	piab abal  12 2	piab abal 	12	2	99
+1087	piab lade pisy fasy  8 2	piab lade pisy fasy 	8	2	20
+1088	FASY pisy  10 2	FASY pisy 	10	2	16
+1089	fasy frex  6 2	fasy frex 	6	2	50
+1090	FASY abal  11 2	FASY abal 	11	2	444
+1091	PIAB  13 2	PIAB 	13	2	15689
+1092	PIAB  13 1	PIAB 	13	1	335
+1093	piab pisy  11 2	piab pisy 	11	2	97
+1094	piab pisy fasy  11 2	piab pisy fasy 	11	2	13
+1095	PIAB pisy  11 2	PIAB pisy 	11	2	28
+1096	PIAB fasy  12 1	PIAB fasy 	12	1	203
+1097	FASY pisy  7 2	FASY pisy 	7	2	47
+1098	piab abal fasy  12 2	piab abal fasy 	12	2	397
+1099	PIAB abal  12 2	PIAB abal 	12	2	48
+1100	PIAB fasy  13 2	PIAB fasy 	13	2	2548
+1101	piab abal fasy  11 1	piab abal fasy 	11	1	25
+1102	FASY piab  12 2	FASY piab 	12	2	8590
+1103	piab fasy  13 1	piab fasy 	13	1	28
+1104	piab fasy  13 2	piab fasy 	13	2	786
+1105	FASY qupe  5 1	FASY qupe 	5	1	8
+1106	FASY qupe  5 2	FASY qupe 	5	2	23
+1107	fasy  12 2	fasy 	12	2	45
+1108	FASY abal  10 1	FASY abal 	10	1	35
+1109	FASY qupe  6 2	FASY qupe 	6	2	54
+1110	PIAB  12 0	PIAB 	12	0	22
+1111	FASY abal  11 1	FASY abal 	11	1	14
+1112	FASY piab  4 2	FASY piab 	4	2	267
+1113	FASY piab  13 2	FASY piab 	13	2	90
+1114	piab abal fasy  12 1	piab abal fasy 	12	1	29
+1115	FASY  13 2	FASY 	13	2	49
+1116	PIAB fasy  13 1	PIAB fasy 	13	1	15
+1117	FASY  12 1	FASY 	12	1	28
+1118	FASY piab  12 1	FASY piab 	12	1	25
+1119	abal fasy  12 2	abal fasy 	12	2	11
+1120	FASY qupe  8 1	FASY qupe 	8	1	24
+1121	FASY qupe  8 2	FASY qupe 	8	2	920
+1122	fasy qupe  8 1	fasy qupe 	8	1	140
+1123	fasy qupe  8 2	fasy qupe 	8	2	2060
+1124	FASY qupe  9 2	FASY qupe 	9	2	2363
+1125	FASY qupe  9 1	FASY qupe 	9	1	37
+1126	FASY qupe  7 1	FASY qupe 	7	1	29
+1127	fasy qupe  7 1	fasy qupe 	7	1	95
+1128	piab abal  12 1	piab abal 	12	1	11
+1129	piab  13 2	piab 	13	2	33
+1130	FASY abal  12 2	FASY abal 	12	2	60
+1131	PISY  3 2	PISY 	3	2	7
+1132	piab abal lade fasy  7 2	piab abal lade fasy 	7	2	19
+1133	FREX piab  9 0	FREX piab 	9	0	7
+1134	fasy  2 0	fasy 	2	0	20
+1135	lade  2 0	lade 	2	0	28
+1136	lade  3 0	lade 	3	0	18
+1137	lade  4 0	lade 	4	0	16
+1138	ACPS fasy  7 2	ACPS fasy 	7	2	15
+1139	piab bepe  10 2	piab bepe 	10	2	22
+1140	FASY acps  9 2	FASY acps 	9	2	27
+1141	FASY abal  5 2	FASY abal 	5	2	13
+1142	PIAB pisy  10 1	PIAB pisy 	10	1	9
+1143	PIAB abal  10 1	PIAB abal 	10	1	12
+1144	PIAB  14 2	PIAB 	14	2	19
+1145	ABAL fasy  9 2	ABAL fasy 	9	2	12
+1146	FASY qupe  7 2	FASY qupe 	7	2	259
+1147	bepe  8 1	bepe 	8	1	10
+1148	FASY  3 2	FASY 	3	2	90
+1149	fasy qupe  5 1	fasy qupe 	5	1	7
+1150	piab lade pisy fasy  9 2	piab lade pisy fasy 	9	2	20
+1151	FREX piab  11 1	FREX piab 	11	1	11
+1152	PISY fasy  9 2	PISY fasy 	9	2	11
+1153	fasy qupe  9 2	fasy qupe 	9	2	10406
+1154	fasy qupe  5 2	fasy qupe 	5	2	27
+1155	fasy qupe  7 2	fasy qupe 	7	2	304
+1156	fasy qupe  10 2	fasy qupe 	10	2	4645
+1157	FASY qupe  6 1	FASY qupe 	6	1	5
+1158	FASY piab  3 1	FASY piab 	3	1	8
+1159	fasy qupe  6 2	fasy qupe 	6	2	40
+1160	fasy qupe  6 1	fasy qupe 	6	1	22
+1161	FASY qupe  10 2	FASY qupe 	10	2	374
+1162	fasy qupe  9 1	fasy qupe 	9	1	250
+1163	piab abal fasy  13 2	piab abal fasy 	13	2	27
+1164	FASY quro  9 2	FASY quro 	9	2	17
+1165	piab fasy pini  6 1	piab fasy pini 	6	1	15
+1166	piab fasy pini  6 2	piab fasy pini 	6	2	20
+1167	piab fasy qupe  9 2	piab fasy qupe 	9	2	12793
+1168	FASY quro  8 1	FASY quro 	8	1	7
+1169	FASY quro  8 2	FASY quro 	8	2	43
+1170	piab fasy qupe  10 2	piab fasy qupe 	10	2	6976
+1171	PIAB fasy  14 2	PIAB fasy 	14	2	3
+1172	piab fasy  14 2	piab fasy 	14	2	4
+1173	fasy pini  6 1	fasy pini 	6	1	12
+1174	fasy pini  6 2	fasy pini 	6	2	70
+1175	FASY pini  6 2	FASY pini 	6	2	89
+1176	FASY pini  5 2	FASY pini 	5	2	11
+1177	piab fasy qupe  7 1	piab fasy qupe 	7	1	25
+1178	piab fasy qupe  7 2	piab fasy qupe 	7	2	35
+1179	piab qupe  9 1	piab qupe 	9	1	189
+1180	piab fasy  3 1	piab fasy 	3	1	29
+1181	piab fasy qupe  8 2	piab fasy qupe 	8	2	1369
+1182	piab fasy qupe  11 1	piab fasy qupe 	11	1	8
+1183	FASY pini  7 2	FASY pini 	7	2	51
+1184	piab fasy qupe  11 2	piab fasy qupe 	11	2	278
+1185	fasy pini  7 2	fasy pini 	7	2	417
+1186	fasy quro  9 2	fasy quro 	9	2	13
+1187	piab fasy quro  10 1	piab fasy quro 	10	1	4
+1188	FASY qupe  11 2	FASY qupe 	11	2	2
+1189	piab fasy qupe  10 1	piab fasy qupe 	10	1	74
+1190	FASY pini  6 1	FASY pini 	6	1	3
+1191	abal fasy qupe  8 2	abal fasy qupe 	8	2	2
+1192	fasy qupe  11 2	fasy qupe 	11	2	57
+1193	piab fasy pini  5 1	piab fasy pini 	5	1	40
+1194	piab qupe  10 1	piab qupe 	10	1	23
+1195	fasy pini  5 1	fasy pini 	5	1	4
+1196	fasy qupe  10 1	fasy qupe 	10	1	103
+1197	piab qupe  5 1	piab qupe 	5	1	
+1198	piab qupe  6 1	piab qupe 	6	1	1
+1199	piab qupe  10 2	piab qupe 	10	2	645
+1200	piab fasy pini  5 2	piab fasy pini 	5	2	4
+1201	piab qupe  7 1	piab qupe 	7	1	26
+1202	fasy qupe  11 1	fasy qupe 	11	1	
+1203	piab qupe  7 2	piab qupe 	7	2	27
+1204	piab qupe  8 2	piab qupe 	8	2	800
+1205	fasy pini  5 2	fasy pini 	5	2	38
+1206	piab fasy qupe  6 1	piab fasy qupe 	6	1	9
+1207	piab qupe  9 2	piab qupe 	9	2	822
+1208	QUPE piab  10 2	QUPE piab 	10	2	3
+1209	piab fasy qupe  8 1	piab fasy qupe 	8	1	163
+1210	piab qupe  11 1	piab qupe 	11	1	34
+1211	fasy quro  8 1	fasy quro 	8	1	4
+1212	QUPE fasy  8 2	QUPE fasy 	8	2	5
+1213	piab fasy qupe  9 1	piab fasy qupe 	9	1	296
+1214	piab qupe  11 2	piab qupe 	11	2	5814
+1215	PIAB qupe  11 1	PIAB qupe 	11	1	1
+1216	PIAB qupe  11 2	PIAB qupe 	11	2	566
+1217	fasy quro  9 1	fasy quro 	9	1	9
+1218	piab fasy quro  12 2	piab fasy quro 	12	2	1
+1219	fasy quro  6 2	fasy quro 	6	2	4
+1220	QUPE  8 1	QUPE 	8	1	12
+1221	PIAB qupe  10 1	PIAB qupe 	10	1	9
+1222	piab qupe  8 1	piab qupe 	8	1	204
+1223	piab fasy qupe  12 2	piab fasy qupe 	12	2	9
+1224	piab quro  9 2	piab quro 	9	2	6
+1225	piab fasy pini  7 1	piab fasy pini 	7	1	19
+1226	QUPE  8 2	QUPE 	8	2	24
+1227	piab fasy pini  7 2	piab fasy pini 	7	2	100
+1228	QUPE  9 1	QUPE 	9	1	33
+1229	piab fasy pini  8 1	piab fasy pini 	8	1	28
+1230	fasy quro qupe  9 2	fasy quro qupe 	9	2	3
+1231	fasy qupe pini  7 2	fasy qupe pini 	7	2	43
+1232	QUPE  9 2	QUPE 	9	2	52
+1233	qupe  9 1	qupe 	9	1	
+1234	quro qupe  9 2	quro qupe 	9	2	10
+1235	quro qupe  8 2	quro qupe 	8	2	7
+1236	fasy quro qupe  8 2	fasy quro qupe 	8	2	2
+1237	FASY qupe  10 1	FASY qupe 	10	1	11
+1238	piab qupe  12 2	piab qupe 	12	2	151
+1239	QUPE  11 1	QUPE 	11	1	4
+1240	QUPE  10 1	QUPE 	10	1	19
+1241	QUPE  10 2	QUPE 	10	2	41
+1242	PIAB qupe  10 2	PIAB qupe 	10	2	192
+1243	qupe  9 2	qupe 	9	2	75
+1244	FASY pini  8 2	FASY pini 	8	2	43
+1245	fasy pini  8 1	fasy pini 	8	1	6
+1246	QUPE  6 1	QUPE 	6	1	4
+1247	piab fasy quro  9 2	piab fasy quro 	9	2	8
+1248	piab quro qupe  9 2	piab quro qupe 	9	2	4
+1249	QUPE fasy  9 2	QUPE fasy 	9	2	10
+1250	fasy quro  8 2	fasy quro 	8	2	8
+1251	fasy pini  8 2	fasy pini 	8	2	174
+1252	fasy pini  9 1	fasy pini 	9	1	3
+1253	fasy pini  9 2	fasy pini 	9	2	87
+1254	piab fasy pini  9 2	piab fasy pini 	9	2	225
+1255	piab quro qupe  9 1	piab quro qupe 	9	1	
+1256	fasy pini  7 1	fasy pini 	7	1	20
+1257	piab quro qupe  8 1	piab quro qupe 	8	1	1
+1258	piab quro qupe  8 2	piab quro qupe 	8	2	18
+1259	quro qupe  8 1	quro qupe 	8	1	5
+1260	piab fasy quro qupe  10 2	piab fasy quro qupe 	10	2	
+1261	piab quro qupe  10 2	piab quro qupe 	10	2	6
+1262	fasy quro qupe  7 2	fasy quro qupe 	7	2	1
+1263	QUPE fasy  7 2	QUPE fasy 	7	2	6
+1264	piab fasy quro  10 2	piab fasy quro 	10	2	10
+1265	PINI fasy  6 2	PINI fasy 	6	2	14
+1266	QUPE  5 2	QUPE 	5	2	7
+1267	FASY pini  5 1	FASY pini 	5	1	2
+1268	QUPE piab  7 1	QUPE piab 	7	1	
+1269	QUPE piab  7 2	QUPE piab 	7	2	
+1270	QUPE piab  8 2	QUPE piab 	8	2	22
+1271	FASY quro  9 1	FASY quro 	9	1	4
+1272	QUPE  7 2	QUPE 	7	2	
+1273	QUPE  7 1	QUPE 	7	1	3
+1274	PIAB qupe  8 1	PIAB qupe 	8	1	22
+1275	PIAB qupe  9 1	PIAB qupe 	9	1	26
+1276	PIAB qupe  9 2	PIAB qupe 	9	2	95
+1277	FASY quro  7 2	FASY quro 	7	2	16
+1278	abal fasy qupe  9 2	abal fasy qupe 	9	2	5
+1279	FASY quro  10 2	FASY quro 	10	2	9
+1280	fasy pini  10 2	fasy pini 	10	2	4
+1281	quro qupe  6 1	quro qupe 	6	1	6
+1282	QUPE quro  7 2	QUPE quro 	7	2	
+1283	fasy quro  10 2	fasy quro 	10	2	11
+1284	piab fasy quro  9 1	piab fasy quro 	9	1	3
+1285	piab fasy quro  8 2	piab fasy quro 	8	2	1
+1286	piab quro qupe  10 1	piab quro qupe 	10	1	1
+1287	fasy quro  10 1	fasy quro 	10	1	4
+1288	QUPE  6 2	QUPE 	6	2	23
+1289	qupe  6 2	qupe 	6	2	1
+1290	piab fasy pini  9 1	piab fasy pini 	9	1	30
+1291	qupe  7 2	qupe 	7	2	1
+1292	quro qupe  10 2	quro qupe 	10	2	7
+1293	QUPE pini  7 2	QUPE pini 	7	2	
+1294	piab quro  8 2	piab quro 	8	2	11
+1295	qupe pini  7 2	qupe pini 	7	2	10
+1296	qupe pini  6 2	qupe pini 	6	2	47
+1297	piab quro  8 1	piab quro 	8	1	3
+1298	qupe  10 2	qupe 	10	2	16
+1299	qupe  8 2	qupe 	8	2	22
+1300	quro qupe  6 2	quro qupe 	6	2	21
+1301	piab fasy quro  11 2	piab fasy quro 	11	2	
+1302	fasy qupe  12 2	fasy qupe 	12	2	4
+1303	piab quro  10 2	piab quro 	10	2	9
+1304	quro qupe  11 2	quro qupe 	11	2	3
+1305	piab fasy qupe  12 1	piab fasy qupe 	12	1	
+1306	piab quro qupe  11 2	piab quro qupe 	11	2	5
+1307	fasy quro qupe  11 2	fasy quro qupe 	11	2	
+1308	QURO  10 2	QURO 	10	2	13
+1309	piab qupe  12 1	piab qupe 	12	1	4
+1310	piab quro qupe  12 2	piab quro qupe 	12	2	
+1311	fasy qupe  13 2	fasy qupe 	13	2	
+1312	PIAB qupe  12 2	PIAB qupe 	12	2	89
+1313	QUPE quro  9 2	QUPE quro 	9	2	7
+1314	piab qupe  13 2	piab qupe 	13	2	2
+1315	PIAB qupe  13 2	PIAB qupe 	13	2	25
+1316	piab quro  12 2	piab quro 	12	2	1
+1317	QUPE quro  10 2	QUPE quro 	10	2	7
+1318	piab fasy qupe  13 2	piab fasy qupe 	13	2	
+1319	quro qupe  7 2	quro qupe 	7	2	8
+1320	QUPE piab  11 2	QUPE piab 	11	2	28
+1321	piab pini  8 1	piab pini 	8	1	104
+1322	qupe  11 2	qupe 	11	2	4
+1323	quro qupe  7 1	quro qupe 	7	1	1
+1324	piab pini  8 2	piab pini 	8	2	2407
+1325	piab quro  11 2	piab quro 	11	2	20
+1326	piab quro qupe  13 2	piab quro qupe 	13	2	
+1327	qupe  13 2	qupe 	13	2	
+1328	qupe  12 2	qupe 	12	2	
+1329	fasy quro qupe  10 2	fasy quro qupe 	10	2	4
+1330	QUPE  12 2	QUPE 	12	2	5
+1331	QUPE  11 2	QUPE 	11	2	7
+1332	qupe pini  8 2	qupe pini 	8	2	12
+1333	QUPE piab  8 1	QUPE piab 	8	1	3
+1334	QUPE  13 2	QUPE 	13	2	3
+1335	piab qupe pini  6 2	piab qupe pini 	6	2	3
+1336	QUPE piab  9 2	QUPE piab 	9	2	7
+1337	QUPE piab  9 1	QUPE piab 	9	1	7
+1338	QUPE piab  12 2	QUPE piab 	12	2	
+1339	QUPE quro  11 2	QUPE quro 	11	2	
+1340	piab qupe  6 2	piab qupe 	6	2	1
+1341	QUPE fasy  10 2	QUPE fasy 	10	2	6
+1342	QUPE  5 1	QUPE 	5	1	4
+1343	piab pini  9 1	piab pini 	9	1	53
+1344	piab qupe pini  7 2	piab qupe pini 	7	2	4
+1345	piab qupe pini  8 2	piab qupe pini 	8	2	85
+1346	piab pini  9 2	piab pini 	9	2	1245
+1347	QUPE piab  6 2	QUPE piab 	6	2	3
+1348	PIAB pini  9 2	PIAB pini 	9	2	127
+1349	QUPE piab  13 2	QUPE piab 	13	2	5
+1350	PIAB qupe  8 2	PIAB qupe 	8	2	22
+1351	piab fasy qupe pini  10 2	piab fasy qupe pini 	10	2	
+1352	qupe  8 1	qupe 	8	1	2
+1353	piab qupe pini  10 2	piab qupe pini 	10	2	2
+1354	QUPE piab  10 1	QUPE piab 	10	1	
+1355	PIAB qupe  14 2	PIAB qupe 	14	2	
+1356	QUPE quro  8 2	QUPE quro 	8	2	
+1357	PIAB qupe  7 1	PIAB qupe 	7	1	1
+1358	piab quro qupe  7 2	piab quro qupe 	7	2	1
+1359	piab quro  9 1	piab quro 	9	1	1
+1360	piab quro  7 1	piab quro 	7	1	8
+1361	piab fasy pini  10 2	piab fasy pini 	10	2	24
+1362	piab pini  10 2	piab pini 	10	2	71
+1363	QUPE piab  11 1	QUPE piab 	11	1	1
+1364	piab qupe pini  9 2	piab qupe pini 	9	2	60
+1365	piab qupe pini  9 1	piab qupe pini 	9	1	1
+1366	abal fasy qupe  10 2	abal fasy qupe 	10	2	9
+1367	abal qupe  10 2	abal qupe 	10	2	
+1368	abal qupe  12 2	abal qupe 	12	2	
+1369	piab quro  10 1	piab quro 	10	1	2
+1370	fasy qupe pini  10 2	fasy qupe pini 	10	2	4
+1371	piab fasy pini  8 2	piab fasy pini 	8	2	399
+1372	fasy quro qupe  10 1	fasy quro qupe 	10	1	5
+1373	piab fasy pini  10 1	piab fasy pini 	10	1	
+1374	PINI piab  6 2	PINI piab 	6	2	
+1375	PINI piab  7 2	PINI piab 	7	2	1
+1376	piab pini  7 2	piab pini 	7	2	120
+1377	PIAB  14 1	PIAB 	14	1	
+1378	PINI  6 2	PINI 	6	2	4
+1379	PIAB quro  11 2	PIAB quro 	11	2	8
+1380	piab pini  6 2	piab pini 	6	2	3
+1381	qupe pini  9 2	qupe pini 	9	2	2
+1382	fasy quro pini  8 2	fasy quro pini 	8	2	5
+1383	FASY pini  9 2	FASY pini 	9	2	23
+1384	PIAB pini  8 1	PIAB pini 	8	1	4
+1385	quro qupe pini  6 2	quro qupe pini 	6	2	2
+1386	PIAB pini  8 2	PIAB pini 	8	2	76
+1387	piab pini  7 1	piab pini 	7	1	2
+1388	fasy qupe pini  8 2	fasy qupe pini 	8	2	186
+1389	PINI qupe  6 2	PINI qupe 	6	2	10
+1390	piab qupe pini  8 1	piab qupe pini 	8	1	6
+1391	piab fasy qupe pini  8 2	piab fasy qupe pini 	8	2	7
+1392	qupe pini  10 2	qupe pini 	10	2	
+1393	fasy qupe pini  9 2	fasy qupe pini 	9	2	78
+1394	piab fasy qupe pini  9 2	piab fasy qupe pini 	9	2	32
+1395	piab fasy qupe pini  7 2	piab fasy qupe pini 	7	2	
+1396	quro qupe  5 1	quro qupe 	5	1	1
+1397	QUPE pini  8 2	QUPE pini 	8	2	
+1398	piab pini  10 1	piab pini 	10	1	2
+1399	qupe pini  5 2	qupe pini 	5	2	16
+1400	pini  6 2	pini 	6	2	5
+1401	pini  8 2	pini 	8	2	18
+1402	PINI  9 2	PINI 	9	2	5
+1403	piab qupe pini  7 1	piab qupe pini 	7	1	2
+1404	PINI  8 2	PINI 	8	2	2
+1405	piab pini  6 1	piab pini 	6	1	2
+1406	piab pini  11 2	piab pini 	11	2	6
+1407	pini  7 2	pini 	7	2	27
+1408	PIAB pini  10 2	PIAB pini 	10	2	15
+1409	piab qupe pini  11 2	piab qupe pini 	11	2	2
+1410	QUPE pini  9 2	QUPE pini 	9	2	
+1411	PIAB quro  10 2	PIAB quro 	10	2	10
+1412	PIAB pini  11 2	PIAB pini 	11	2	3
+1413	piab fasy pini  11 2	piab fasy pini 	11	2	6
+1414	PINI fasy  7 2	PINI fasy 	7	2	9
+1415	qupe pini  7 1	qupe pini 	7	1	
+1416	PINI piab  8 2	PINI piab 	8	2	9
+1417	PINI  7 2	PINI 	7	2	8
+1418	PIAB pini  9 1	PIAB pini 	9	1	5

@@ -1,0 +1,21 @@
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=41 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_1.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=42 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_2.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=43 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_3.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=44 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_4.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=45 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_5.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=46 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_6.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=47 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_7.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=48 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_8.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=49 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_9.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=50 modules.fire.ignitionFile=fire/ignitions/HadGEM2-ES-85_10.txt climate.file=climate/historic.txt
+exit
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=81 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_1.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=82 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_2.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=83 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_3.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=84 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_4.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=85 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_5.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=86 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_6.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=87 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_7.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=88 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_8.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=89 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_9.txt climate.file=climate/historic.txt
+svdc E:\Daten\SVD\projects\gye\config_full_cc_histfire.conf 142 filemask.run=90 modules.fire.ignitionFile=fire/ignitions/HadGEM2-CC-85_10.txt climate.file=climate/historic.txt

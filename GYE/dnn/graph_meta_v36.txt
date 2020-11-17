@@ -1,0 +1,64 @@
+## DNN Meta-data
+# Currently available values for "type":"Climate","State","ResidenceTime", "Neighbors", "Site","Scalar", "DistanceOutside"
+# Possible values for "datatype": float, int16, int64, uint16, float16, bool
+# dim: number of dimensions (1 or 2)
+# sizeX: dimensionality 1st axis
+# sizeY: dimensionality 2nd axis (0 for 1-dim values)
+
+# Graph meta data for v36
+# * embedded state
+# * added soildepth
+
+#state: int : with embedding, disabled for v19++
+# when input is an embedding layer
+input.state.enabled=true
+input.state.dim=1
+input.state.sizeX=1
+input.state.sizeY=0
+input.state.dtype=int32
+input.state.type=State
+
+# State: when input is a single float (bug with embedding layer), e.g. v19, v28
+#input.state.enabled=true
+#input.state.dim=1
+#input.state.sizeX=1
+#input.state.sizeY=0
+#input.state.dtype=float
+#input.state.type=Var
+#input.state.transformations={(stateId-1)/10}
+
+# residence time: float, t/10
+input.restime.enabled=true
+input.restime.dim=1
+input.restime.sizeX=1
+input.restime.sizeY=0
+input.restime.dtype=float
+input.restime.type=ResidenceTime
+
+# climate: float, 10x24 (12x temp/10, 12x prec/20)
+input.climate.enabled=true
+input.climate.dim=2
+input.climate.sizeX=10
+input.climate.sizeY=24
+input.climate.dtype=float
+input.climate.type=Climate
+
+# site, float nitrogen/100, sand/100 - variable input
+input.site.enabled=true
+input.site.dim=1
+input.site.sizeX=3
+input.site.sizeY=0
+input.site.dtype=float
+input.site.type=Var
+input.site.transformations={availableNitrogen/100}, {pctSand/100}, {soilDepth/100}
+
+# distance to seed source, float (m/1000)
+input.distance.enabled=true
+input.distance.dim=1
+input.distance.sizeX=1
+input.distance.sizeY=0
+input.distance.dtype=float
+input.distance.type=Function
+input.distance.function=DistToSeedSource
+
+
