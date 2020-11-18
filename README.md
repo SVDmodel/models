@@ -13,3 +13,8 @@ SVD project and training data for the study area (Kalkalpen Nationalpark) used f
 "A scalable model of vegetation transitions using deep neural networks", by Werner Rammer and Rupert Seidl.
 
 
+## GYE
+SVD project folder for the Greater Yellowstone Ecosystem. This data set was used for the paper:
+"Widespread regeneration failure in forests of Greater Yellowstone under scenarios of future climate and fire", by Werner Rammer et al.
+
+
