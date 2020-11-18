@@ -1,8 +1,6 @@
 # Greater Yellowstone Ecosystem
 SVD project and training data for the study area (Greater Yellowstone Ecosystem, USA) used for the paper:
 
-"A scalable model of vegetation transitions using deep neural networks", by Werner Rammer and Rupert Seidl.
-
 "Widespread regeneration failure in forests of Greater Yellowstone under scenarios of future climate and fire", by Werner Rammer, Kristin H. Braziunas, Winslow D. Hansen, Zak Ratajczak, A. Leroy Westerling, Monica G. Turner, Rupert Seidl
 
 
